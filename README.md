@@ -1,3 +1,7 @@
+**Note:** The refactored frontend & backend has been merged and moved to the monorepo: https://github.com/shujiejune/Skitter.
+
+---
+
 React frontend of a Dispatch & Delivery Management Web App
 
 To host the website locally, run `npm install` in local directory once and `npm run dev` to start locally.
